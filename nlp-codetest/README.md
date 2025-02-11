@@ -1,8 +1,4 @@
-# Seedtag Codetest:  NLP Researcher
-<p style="text-align:center;">
-<img src="Seedtag.png" alt="Seedtag" height="10%" width="10%">
-</p>
-
+# NLP Researcher
 ===== start of transmission =====
 
 **Agent Kallus**,
@@ -26,13 +22,7 @@ Recently, we have detected what it seems to be a new category among the intercep
 
 For the third and final part of your mission, you need to build a message matcher system, that is able to detect from a set of samples, the ones most similar to a given message according to their content. (for a reference, see [```matcher_baseline.ipynb```](./part3/matcher_baseline.ipynb)).
 
-
-## Delivery instructions
-
-All solutions and corresponding analysis and evaluation, as well as the hacked baseline model, should be provided in a jupyter notebook named ```<username-en-github>_codetest4_seedtag``` and send it attached in an email to alliance@seedtag.com. In case your mail system does not allow you to send the file, you can rename the extension to .a.
-
 Good luck on your mission and may the force be with you.
-
 
 ===== end of transmission =====
 
